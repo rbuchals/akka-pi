@@ -1,9 +1,10 @@
 *.class
 *.log
 
-# sbt specific
 .cache
 .history
+.settings
+.classpath
 .lib/
 dist/*
 target/
